@@ -1,0 +1,7 @@
+This project is a toaster message which pops up on the bottom right corner (like an error message would) - only this version the message pops when a button is clicked. 
+
+It uses Flexbox, CSS transitions and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- Error message notifications
