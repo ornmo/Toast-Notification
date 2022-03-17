@@ -1,7 +1,12 @@
 This project is a toaster message which pops up on the bottom right corner (like an error message would) - only this version the message pops when a button is clicked. 
+There are varied coloured notifications in this version, indicating to the User that there are errors (red), that something has been successful (green), or providing information (purple)
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
+- Form validation success
 - Error message notifications
+- additional notifications to User
+
+The getRandom functions can be edited to include actual error messages or notifications
